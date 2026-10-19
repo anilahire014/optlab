@@ -71,8 +71,20 @@ That ratio is the point. The discipline that produces it: pre-register the exact
 
 ## Screenshots
 
-<!-- Add 3-4 screenshots here. Suggested: the Live cockpit, the option chain with
-     Greeks, the paper journal, and the research scoreboard. -->
+### Live index chart
+![Live index chart](Live_index_chart.png)
+
+### Index option chain
+![Index option chain](Index_option_chain.png)
+
+### Research backtest
+![Research backtest](Research_backtest.png)
+
+### Stocks / equity imprints
+![Stocks equity imprints](Stocks_Equity_imprints.png)
+
+### Trade journal
+![Trade journal](Trade_journal.png)
 
 ---
 
